@@ -9,6 +9,7 @@ The bot has the following commands available:
 
 | Image | Command | Description | Type | Min Parameters | Max Parameters |
 |:---------|:---------:|:---------:|:---------:|:---------:|:---------:|
+![image](https://github.com/user-attachments/assets/c6ffafd1-45e4-41f5-a179-75b3b5e38dea) | !qmcommands | Get a link to this page | Info | 0 | 0
 ![image](https://github.com/user-attachments/assets/e15a23ff-9104-42f8-b1e1-42d393c93cc8)| !qmlevel | Look up details about the input level id | Info | 1 | 1
 ![image](https://github.com/user-attachments/assets/a0bfd4bb-a5f2-4ace-b9aa-b25c6aca2064)| !qmzero | Gets a random uncleared level | Team 0% | 0 | 0
 ![image](https://github.com/user-attachments/assets/03cbc488-f264-49b2-8e7c-506ebcd0ed7b) | !qmzerocheck | Shows the Team 0% progress | Team 0% | 0 | 0
@@ -21,6 +22,8 @@ The bot has the following commands available:
 ![image](https://github.com/user-attachments/assets/2c94b288-b128-41bc-8ec6-9aaa5eed9f95) | !qmqueuesize | Shows how many levels are in the queue | Level Queue | 0 | 0
 ![image](https://github.com/user-attachments/assets/d39eda84-7d8c-4f61-8a5a-87b97883eb45) | !qmlimit | Limits how many levels can be in your queue (1 - 30) | Level Queue | 1 | 1
 ![image](https://github.com/user-attachments/assets/4873c6af-10f2-4cda-8d51-9b25cd0bb52a) | !qmcredits | Shows who created the bot and who helped | Info | 0 | 0
+![image](https://github.com/user-attachments/assets/1ffe73a2-6e96-4e34-9e27-50e824ce239d) | !qmdashboard | Shows a link to the dashboard | Info | 0 | 0
+
 
 
 
