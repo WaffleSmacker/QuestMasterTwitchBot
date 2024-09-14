@@ -20,6 +20,7 @@ The bot has the following commands available:
 ![image](https://github.com/user-attachments/assets/5f162a98-6731-4b99-9a77-b67c4148be5a) | !qmcompleted | Removes the current level from the queue | Level Queue | 0 | 0
 ![image](https://github.com/user-attachments/assets/7bef43bd-d532-4357-b095-98e0a24d66c8) | !qmqueuewipe | Resets your queue | Level Queue | 0 | 0
 ![image](https://github.com/user-attachments/assets/2c94b288-b128-41bc-8ec6-9aaa5eed9f95) | !qmqueuesize | Shows how many levels are in the queue | Level Queue | 0 | 0
+![image](https://github.com/user-attachments/assets/82e99e78-8f58-4bc7-871b-6f002a6de1a6) | !qmqueuetime | Shows estimated time based on average clear times | Level Queue | 0 | 0
 ![image](https://github.com/user-attachments/assets/d39eda84-7d8c-4f61-8a5a-87b97883eb45) | !qmlimit | Limits how many levels can be in your queue (1 - 30) | Level Queue | 1 | 1
 ![image](https://github.com/user-attachments/assets/4873c6af-10f2-4cda-8d51-9b25cd0bb52a) | !qmcredits | Shows who created the bot and who helped | Info | 0 | 0
 ![image](https://github.com/user-attachments/assets/1ffe73a2-6e96-4e34-9e27-50e824ce239d) | !qmdashboard | Shows a link to the dashboard | Info | 0 | 0
