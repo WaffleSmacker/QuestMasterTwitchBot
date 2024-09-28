@@ -19,7 +19,7 @@ The bot has the following commands available:
 | ![image](https://github.com/user-attachments/assets/a0bfd4bb-a5f2-4ace-b9aa-b25c6aca2064) | !qmrandom | Get a random level from the queue and swap it with the current one | Level Queue | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/11c8aac1-0528-4711-959d-c4655eaa0062) | !qmcurrent | Shows the current level in the queue | Level Queue | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/656ab3b1-25c3-46eb-9bee-3f742eb5d0e0) | !qmnext | Shows the next level in the queue | Level Queue | 0 | 0 |
-| ![image](https://github.com/user-attachments/assets/5f162a98-6731-4b99-9a77-b67c4148be5a) | !qmcompleted | Removes the current level from the queue | Level Queue | 0 | 0 |
+| ![image](https://github.com/user-attachments/assets/f5483576-795e-42f6-b9a9-9c54d13f864c) | !qmgg | Removes the current level from the queue | Level Queue | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/7bef43bd-d532-4357-b095-98e0a24d66c8) | !qmqueuewipe | Resets your queue | Level Queue | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/2c94b288-b128-41bc-8ec6-9aaa5eed9f95) | !qmqueuesize | Shows how many levels are in the queue | Level Queue | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/82e99e78-8f58-4bc7-871b-6f002a6de1a6) | !qmqueuetime | Shows estimated time based on average clear times | Level Queue | 0 | 0 |
