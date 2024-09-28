@@ -26,13 +26,13 @@ The bot has the following commands available:
 | ![image](https://github.com/user-attachments/assets/d39eda84-7d8c-4f61-8a5a-87b97883eb45) | !qmlimit | Limits how many levels can be in your queue (1 - 30) | Level Queue | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/4873c6af-10f2-4cda-8d51-9b25cd0bb52a) | !qmcredits | Shows who created the bot and who helped | Info | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/1ffe73a2-6e96-4e34-9e27-50e824ce239d) | !qmdashboard | Shows a link to the dashboard | Info | 0 | 0 |
-| ![image](https://github.com/user-attachments/assets/8e29b139-bb25-4c6e-8d08-45f2a3b26cf1) | !qmvalidate | Validates the user profile with the provided game username | Challenge Run | 1 | 1 |
+| ![image](https://github.com/user-attachments/assets/adf65775-2b67-4f44-8b0c-8c39071f09f3) | !qmvalidate | Validates the user profile with the provided game username | Challenge Run | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/885ae3dc-0eab-44d5-9658-04f2f8601fd7) | !qmstart | Starts a new endless challenge run based on difficulty | Challenge Run | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/895dbe67-3f62-44ce-a27d-c62ee7cd9490) | !qmbeat | Marks the current level as beaten during a challenge run | Challenge Run | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/d7ca5eef-68ec-4acb-b729-c58b19de665c) | !qmdead | Marks a death in a level and decreases a life count during a challenge run | Challenge Run | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/2a078a0e-d699-4574-9c79-948a7e3b3b6d) | !qmpass | Skips the current level using a skip, if any are available | Challenge Run | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/0de42c48-05cd-43fe-a81c-68273991c17f) | !qmstatus | Shows current challenge status including lives and skips left | Challenge Run | 0 | 0 |
-| ![image](https://github.com/user-attachments/assets/8e29b139-bb25-4c6e-8d08-45f2a3b26cf1) | !qmrank | Shows leaderboard for a specific difficulty | Challenge Run | 1 | 1 |
+| ![image](https://github.com/user-attachments/assets/d8765d99-373b-4747-97eb-bebbf46970f0) | !qmrank | Shows leaderboard for a specific difficulty | Challenge Run | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/7fbee5e8-7731-4527-a5ec-ecd3ce3795be) | !qmrestart | Forcefully ends the current challenge run and validates completed levels | Challenge Run | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/3dc2ebe6-8723-4898-add5-e78e9c2cd1e2) | !qmfalladd | Provides a link to the qmFall emote on BTTV | Fun | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/a0ba4861-b580-4f67-bf68-d406d9f05379) | !qmfall | Responds with "qmFall qmFall qmFall" | Fun | 0 | 0 |
