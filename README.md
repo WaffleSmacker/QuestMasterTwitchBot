@@ -4,6 +4,8 @@ It is linked to the [Quest Master Dashboard](https://lookerstudio.google.com/u/0
 Please note that there is a delay of up to an hour for the data.
 The data for this bot and the dashboard is updated at the top of the hour and depending how many changes there were compared to the previous update may take anywhere from 3 to 7 minutes.
 
+# Make sure to mod the bot
+
 # Queues
 This bot can handle a queue to support with viewer requested levels.
 You have multiple commands to control the size of the queue, select random levels, skip levels, see the estimated time of the entire queue, etc.
