@@ -51,7 +51,7 @@ We do have leaderboard rankings for each of the difficulties! GLHF
 | ![image](https://github.com/user-attachments/assets/2a078a0e-d699-4574-9c79-948a7e3b3b6d) | !qmpass | Skips the current level using a skip, if any are available | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/0de42c48-05cd-43fe-a81c-68273991c17f) | !qmstatus | Shows current challenge status including lives and skips left | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/d8765d99-373b-4747-97eb-bebbf46970f0) | !qmrank | Shows leaderboard for a specific difficulty | Challenge Run | 1 | 1 |
-| ![image](https://github.com/user-attachments/assets/7fbee5e8-7731-4527-a5ec-ecd3ce3795be) | !qmend | Forcefully ends the current challenge run and validates completed levels | 0 | 0 |
+| ![image](https://github.com/user-attachments/assets/84e6ec3e-cb79-43b1-b45e-bd2c26198fcf) | !qmend | Forcefully ends the current challenge run and validates completed levels | 0 | 0 |
 
 # Other Commands
 The bot has the following commands available:
@@ -59,7 +59,7 @@ The bot has the following commands available:
 | Image | Command | Description | Type | Min Parameters | Max Parameters |
 |:---------|:---------:|:---------:|:---------:|:---------:|:---------:|
 | ![image](https://github.com/user-attachments/assets/c6ffafd1-45e4-41f5-a179-75b3b5e38dea) | !qmcommands | Get a link to this page | Info | 0 | 0 |
-| ![image](https://github.com/user-attachments/assets/e15a23ff-9104-42f8-b1e1-42d393c93cc8)| !qmlevel | Look up details about the input level id | Info | 1 | 1 |
+| ![image](https://github.com/user-attachments/assets/e15a23ff-9104-42f8-b1e1-42d393c93cc8) | !qmlevel | Look up details about the input level id | Info | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/55a602a2-63b9-42d6-b8af-17bd6927bd3c) | !qmwrcheck | Shows the # of WR for the input user | World Record | 1 | 1 |
 | ![image](https://github.com/user-attachments/assets/4873c6af-10f2-4cda-8d51-9b25cd0bb52a) | !qmcredits | Shows who created the bot and who helped | Info | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/1ffe73a2-6e96-4e34-9e27-50e824ce239d) | !qmdashboard | Shows a link to the dashboard | Info | 0 | 0 |
