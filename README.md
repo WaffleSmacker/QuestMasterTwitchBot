@@ -51,7 +51,7 @@ We do have leaderboard rankings for each of the difficulties! GLHF
 | ![image](https://github.com/user-attachments/assets/2a078a0e-d699-4574-9c79-948a7e3b3b6d) | !qmpass | Skips the current level using a skip, if any are available | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/0de42c48-05cd-43fe-a81c-68273991c17f) | !qmstatus | Shows current challenge status including lives and skips left | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/d8765d99-373b-4747-97eb-bebbf46970f0) | !qmrank | Shows leaderboard for a specific difficulty | Challenge Run | 1 | 1 |
-| ![image](https://github.com/user-attachments/assets/7fbee5e8-7731-4527-a5ec-ecd3ce3795be) | !qmrestart | Forcefully ends the current challenge run and validates completed levels | 0 | 0 |
+| ![image](https://github.com/user-attachments/assets/7fbee5e8-7731-4527-a5ec-ecd3ce3795be) | !qmend | Forcefully ends the current challenge run and validates completed levels | 0 | 0 |
 
 # Other Commands
 The bot has the following commands available:
@@ -65,3 +65,4 @@ The bot has the following commands available:
 | ![image](https://github.com/user-attachments/assets/1ffe73a2-6e96-4e34-9e27-50e824ce239d) | !qmdashboard | Shows a link to the dashboard | Info | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/3dc2ebe6-8723-4898-add5-e78e9c2cd1e2) | !qmfalladd | Provides a link to the qmFall emote on BTTV | Fun | 0 | 0 |
 | ![image](https://github.com/user-attachments/assets/a0ba4861-b580-4f67-bf68-d406d9f05379) | !qmfall | Responds with "qmFall qmFall qmFall" | Fun | 0 | 0 |
+| ![image](https://github.com/user-attachments/assets/cb2e23b1-8d19-4a2e-98ae-83d6ef3aaac9) | !qmshoutout | Shouts out a fellow QM streamer who has been validated | Fun | 0 | 0 |
